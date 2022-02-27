@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Subhabrata Tripathy</h1>
-<h3 align="center">Data Science & Blockchain Developer</h3>
+<h1 align="center">नमस्ते! Hi 👋, I'm Subhabrata Tripathy</h1>
+<h3 align="center">Data Science & Blockchain Developer,Open Source Contributor, Freelancer, Content Creator</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
